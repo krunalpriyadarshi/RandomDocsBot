@@ -2,6 +2,5 @@
 RandomDocsBot is an automation script that adds a touch of spontaneity to your documentation.
 
 
-from web!!!!!! 
 
-hello world<3>
+hello boy, nce to meet yiou
